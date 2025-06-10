@@ -35,4 +35,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: a01demort/comfyui-5000ada-framepack:v1.0.0
+          tags: a01demort/comfyui-5000ada-framepack:v1.0.1
